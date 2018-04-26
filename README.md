@@ -1,2 +1,2 @@
-# test
-This i sa test of branches
+# Mining
+This is a collection of different types of mining setups
