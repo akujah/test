@@ -1,0 +1,2 @@
+#etn miner
+cpuminer -a cryptonight -o stratum+tcp://eu2.electromine.fr:3333 -u etnkEWyDo3mFixsDvtRvKmBYvRbeBJBMrZjNFiySooAViccNffsMpGBMPfAdYbAng2X7SGswiusEpXwZsc32tR2s6ka9QFQpzx -p x &
